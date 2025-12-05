@@ -4,49 +4,28 @@
       "email": "lucia@student.com",
       "id": "1",
       "name": "Lucía Torrez",
-      "password": "123456",
+      "password": "1234",
       "role": "student"
     },
     {
       "id": "2",
-      "name": "Carlos Ríos",
-      "email": "carlos@student.com",
-      "password": "123456",
+      "name": "Javier Gonzales",
+      "email": "jav@mail.com",
+      "password": "1234",
       "role": "student"
     },
     {
       "id": "3",
       "name": "Empresa BioPafi",
       "email": "bio@company.com",
-      "password": "123456",
+      "password": "1234",
       "role": "company"
     },
     {
       "id": "4",
       "name": "Empresa Juntoz",
       "email": "juntoz@company.com",
-      "password": "123456",
-      "role": "company"
-    },
-    {
-      "email": "jav@mail.com",
-      "id": "5",
-      "name": "Javier Gonzales",
       "password": "1234",
-      "role": "student"
-    },
-    {
-      "id": "6",
-      "email": "gys@mail.com",
-      "name": "Felipe Chavez",
-      "password": "1234",
-      "role": "company"
-    },
-    {
-      "id": "7",
-      "name": "Javier",
-      "email": "com@mail.com",
-      "password": "123",
       "role": "company"
     }
   ],
@@ -54,8 +33,8 @@
     {
       "aboutMe": "",
       "birthdate": "2002-08-15",
-      "career": "Ingeniería de Software",
-      "city": "Lima",
+      "career": "Ingeniería de Sistemas",
+      "city": "Cusco",
       "country": "Perú",
       "endedProjects": [
         1
@@ -63,39 +42,23 @@
       "id": "1",
       "phoneNumber": "987654321",
       "portfolioLink": "",
-      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/unimatchempresas.firebasestorage.app/o/students%2Fprofile_1764734107888.jpg?alt=media&token=492b5481-5925-4856-9a95-150b1dabc09f",
-      "rating": 3,
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/038/962/461/small/ai-generated-caucasian-successful-confident-young-businesswoman-ceo-boss-bank-employee-worker-manager-with-arms-crossed-in-formal-wear-isolated-in-white-background-photo.jpg",
+      "rating": 0.0,
       "userId": 1
     },
     {
       "id": "2",
       "userId": 2,
-      "birthdate": "2003-01-22",
-      "city": "Cusco",
-      "country": "Perú",
-      "career": "Diseño Gráfico",
-      "phoneNumber": "912345678",
-      "portfolioLink": "",
-      "aboutMe": "",
-      "rating": 1,
-      "profilePicture": "",
-      "endedProjects": [
-        1
-      ]
-    },
-    {
-      "aboutMe": "",
-      "birthdate": "2005-02-22",
-      "career": "Ingenieria de Software",
+      "birthdate": "2006-02-22",
       "city": "Lima",
-      "country": "Peru",
-      "endedProjects": [],
-      "id": "3",
+      "country": "Perú",
+      "career": "Ingeniería de Software",
       "phoneNumber": "924426821",
       "portfolioLink": "",
-      "profilePicture": "",
-      "rating": 0,
-      "userId": 5
+      "aboutMe": "",
+      "rating": 0.0,
+      "profilePicture": "https://instagram.flim28-2.fna.fbcdn.net/v/t51.2885-19/496490285_18297073816300606_8719352431497295759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NjEuYzIifQ&_nc_ht=instagram.flim28-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEpT8CeyUSI7NSS212UWFmdeXMElmx32UpSUCQeKXYvqzpxkW-gPY13j4DqHgDAdvA&_nc_ohc=cMm1wQEWweAQ7kNvwFzPuc6&_nc_gid=pvfjC2fAVqxqczTolN5XOw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Afm2vOEpv40RDwqG6biHHfw2nrBhtebRblpD3tC40FZ7SQ&oe=69383D1C&_nc_sid=7d3ac5",
+      "endedProjects": []
     }
   ],
   "companies": [
@@ -107,7 +70,7 @@
       "location": "Lima",
       "phone": "999888777",
       "profilePicture": "",
-      "rating": 2.5,
+      "rating": 5.0,
       "sector": "Salud",
       "userId": 3
     },
@@ -119,117 +82,52 @@
       "location": "Arequipa",
       "email": "juntoz@company.com",
       "phone": "988776655",
-      "rating": 0,
+      "rating": 5.0,
       "profilePicture": "",
       "description": "Tienda virtual peruana"
-    },
-    {
-      "id": "3",
-      "companyName": "G&S",
-      "description": "",
-      "email": "gys@mail.com",
-      "location": "Lima, Peru",
-      "phone": "999555121",
-      "profilePicture": "",
-      "rating": 0,
-      "sector": "Industria 4.0",
-      "userId": 6
-    },
-    {
-      "id": "4",
-      "userId": 7,
-      "companyName": "Com Corp",
-      "sector": "comunicaciones",
-      "location": "Lima",
-      "email": "com@mail.com",
-      "phone": "999555777",
-      "rating": 0,
-      "profilePicture": "https://firebasestorage.googleapis.com/v0/b/unimatchempresas.firebasestorage.app/o/company_logos%2Fcompany_1764686571117.jpg?alt=media&token=73cff42f-1459-4538-9bf9-cfbe1daa767a",
-      "description": ""
     }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Front-End Design Hola",
-      "description": "Rediseño completo de la interfaz de nuestra app móvil",
+      "title": "Front-End Design",
+      "description": "Rediseño completo y modernización de la interfaz de la aplicación móvil, incorporando una experiencia más intuitiva, fluida y visualmente atractiva para los usuarios.",
       "companyId": 1,
-      "studentsSelected": [
-        1,
-        2
-      ],
+      "studentsSelected": [],
       "isFinished": false,
-      "postulants": [
-        1,
-        2,
-        3
-      ],
+      "postulants": [1],
       "field": "Diseño UI/UX",
-      "budget": 210,
-      "createdAt": "2025-11-01",
+      "budget": 250,
+      "createdAt": "2025-12-01",
       "requirements": [
         "Figma",
         "Prototipado",
-        "Adobe XD"
+        "Adobe XD",
+        "HTML",
+        "CSS",
+        "Java"
       ],
-      "status": "finalizado"
+      "status": "en revisión"
     },
     {
       "id": "2",
-      "title": "Data Project Beta",
-      "description": "Análisis de ventas de productos en campañas pasadas",
-      "companyId": 1,
-      "studentsSelected": [],
-      "isFinished": false,
-      "postulants": [
-        3
-      ],
-      "field": "Data Science",
-      "budget": 120,
-      "createdAt": "2025-11-01",
-      "requirements": [
-        "Python",
-        "Pandas",
-        "Gráficos"
-      ],
-      "status": "en revisión"
-    },
-    {
-      "id": "3",
-      "title": "holaxd",
-      "description": "mal pagaxd",
-      "companyId": 4,
-      "studentsSelected": [],
-      "isFinished": false,
-      "postulants": [
-        1,
-        2,
-        3
-      ],
-      "field": "Techxd",
-      "budget": 120,
-      "createdAt": "2025-12-01",
-      "requirements": [
-        "ff",
-        "dd",
-        "ddd"
-      ],
-      "status": "en revisión"
-    },
-    {
-      "id": "4",
-      "title": "ddd",
-      "description": "ddd",
-      "companyId": 4,
+      "title": "Ventas en Campañas",
+      "description": "Evaluación detallada del desempeño de ventas de productos en campañas anteriores, identificando patrones, tendencias y oportunidades para optimizar futuras estrategias comerciales.",
+      "companyId": 2,
       "studentsSelected": [],
       "isFinished": false,
       "postulants": [],
-      "field": "asdas",
-      "budget": 143,
+      "field": "Ventas",
+      "budget": 300,
       "createdAt": "2025-12-01",
       "requirements": [
-        "asa",
-        "ddd"
+        "Análisis de datos",
+        "Excel",
+        "Google Sheets",
+        "Habilidad para interpretar gráficos",
+        "Estadística descriptiva", 
+        "Patrones y tendencias",
+        "Trabajo en equipo"
       ],
       "status": "en revisión"
     }
@@ -239,28 +137,7 @@
       "id": "1",
       "studentId": 1,
       "projectId": 1,
-      "status": "Aceptado",
-      "date": "2025-12-02"
-    },
-    {
-      "id": "4",
-      "studentId": 2,
-      "projectId": 1,
-      "status": "Aceptado",
-      "date": "2025-12-02"
-    },
-    {
-      "id": "2",
-      "studentId": 3,
-      "projectId": 2,
       "status": "Pendiente",
-      "date": "2025-12-02"
-    },
-    {
-      "id": "3",
-      "studentId": 3,
-      "projectId": 1,
-      "status": "Rechazada",
       "date": "2025-12-02"
     }
   ],
@@ -278,15 +155,7 @@
       "studentId": 2,
       "projectId": 1,
       "rating": 1,
-      "comment": "no chambeo",
-      "type": 1
-    },
-    {
-      "id": 3,
-      "comment": "buena chamba",
-      "projectId": 1,
-      "rating": 5,
-      "studentId": 1,
+      "comment": "Buen ambiente laboral",
       "type": 2
     }
   ]
